@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! It's Clara #
+# It's Clara, #
 ### I'm a Consultant with expertise in data analysis, reporting and visualisation.
 
 🌱 I’m currently learning SQL, Power BI, Tableau
