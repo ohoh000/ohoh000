@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi! It's Clara #
+### I'm a Consultant with expertise in data analysis, reporting and visualisation.
+
+🌱 I’m currently learning SQL, Power BI, Tableau
+📜 My certifications include:
+    - Google Data Analytics Certificate by Coursera
+    - Oracle Cloud Infrastructure 2024 Certified Foundations Associate
+    - Linkedin SQL Essential Training
+ 
+👨‍💻 All of my personal projects are available at: https://github.com/ohoh000?tab=repositories
+📫 Connect with me on: www.linkedin.com/in/clara-oh-
